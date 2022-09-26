@@ -5,20 +5,34 @@ A version-control system that mimics some of the basic features of the popular s
 Synopsis:
 A version-control system is essentially a backup system for related collections of files. The main functionality that Gitlet supports is:
 
-  -Init
-  -Add
-  -Commit
-  -Rm (Remove)
-  -Log
-  -Global-log
-  -Find
-  -Status
-  -Checkout
-  -Branch
-  -Rm-Branch
-  -Reset
-  -Merge
   
+    -Init
+  
+    -Add
+  
+    -Commit
+  
+    -Rm (Remove)
+  
+    -Log
+  
+    -Global-log
+  
+    -Find
+  
+    -Status
+  
+    -Checkout
+  
+    -Branch
+  
+    -Rm-Branch
+  
+    -Reset
+  
+    -Merge
+  
+
 
   Saving the contents of entire directories of files. In Gitlet, this is called committing, and the saved contents themselves are called commits.
 
