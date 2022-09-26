@@ -44,9 +44,11 @@ A version-control system is essentially a backup system for related collections 
 
   Merging changes made in one branch into another.
 
-Skills learned: Java, Serilization, Persistance, Git
 
 
 
 
-<img width="378" alt="Screen Shot 2022-09-19 at 3 31 49 PM" src="https://user-images.githubusercontent.com/107953902/191130959-4b9173b6-1125-4268-8d22-c2fbd5e10f53.png">
+<img width="400" alt="Screen Shot 2022-09-19 at 3 31 49 PM" src="https://user-images.githubusercontent.com/107953902/191130959-4b9173b6-1125-4268-8d22-c2fbd5e10f53.png">
+
+
+Bryan Aguirre
